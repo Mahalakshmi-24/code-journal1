@@ -46,12 +46,17 @@ TODO: I want to allocate time for coding everyday
 
 ### Navigations
    
-   * **Global navigation**:  Global Navigation Menu is located on the 
+   * **Global navigation** :  Global Navigation Menu is located on the 
      left of every page in Canvas. The links in the Global Navigation area provide quick access to all the service in the web page.
     
-   * **Local navigation**:  Indicates the user’s current location within 
+   * **Local navigation** :  Indicates the user’s current location within
      the site - showing sibling pages within the current category, and if applicable, the children or nieces and nephews of the current 
      page.
 
       Example image for global and local navigation:
-      ![navigation](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/navigation.png)
+      ![navigation](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/navigation.png) 
+
+   * **Utility navigation** : Consists of secondary actions and tools.
+
+   * **Doormat navigation** : Navigation that is included both at the 
+      top and the bottom of the page
