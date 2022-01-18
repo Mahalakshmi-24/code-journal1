@@ -53,4 +53,4 @@ TODO: I want to allocate time for coding everyday
      the site - showing sibling pages within the current category, and if applicable, the children or nieces and nephews of the current 
      page.
 
-      [Example image for global and local navigation](C:\Users\15879\Documents\sait-wbdv\assignment\code-journal1\image\navigation.png)
+      [Example image for global and local navigation](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/navigation.png)
