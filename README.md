@@ -65,4 +65,5 @@ TODO: I want to allocate time for coding everyday
        information hierarchy of your site.
 
        example:
-             **--Canada > Products For Home > Laptops > Intel Core i9--**
+
+             **__Canada > Products For Home > Laptops > Intel Core i9__**
