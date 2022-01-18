@@ -10,4 +10,14 @@ TODO: I want to allocate time for coding everyday
   
   * [Introduction of usablity](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
  
-  *
+  * Scanning Patterns
+
+  * how to satisfy user needs?
+
+### User story
+ 
+  * Great user stories always fit the INVEST set of criteria
+
+  * Format
+       
+       As a '[type of user]',i want '[an action]' so that '[a benefit/a value]'.
