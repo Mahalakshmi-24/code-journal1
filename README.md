@@ -66,4 +66,4 @@ TODO: I want to allocate time for coding everyday
 
        example:
 
-             **__Canada > Products For Home > Laptops > Intel Core i9__**
+             **_Canada > Products For Home > Laptops > Intel Core i9_**
