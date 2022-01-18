@@ -22,7 +22,7 @@ TODO: I want to allocate time for coding everyday
        
        As a **[type of user]**,i want **[an action]** so that **[a benefit/a value]**.
 
-### User Flows
+### [User Flows](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
    
    * User flow is a visual representation of the product
 
