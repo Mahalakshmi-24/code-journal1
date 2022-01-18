@@ -54,4 +54,4 @@ TODO: I want to allocate time for coding everyday
      page.
 
       Example image for global and local navigation:
-      ![alt text](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/navigation.png)
+      ![navigation](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/navigation.png)
