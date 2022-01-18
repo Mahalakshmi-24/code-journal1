@@ -21,3 +21,15 @@ TODO: I want to allocate time for coding everyday
   * Format
        
        As a **[type of user]**,i want **[an action]** so that **[a benefit/a value]**.
+
+### User Flows
+   
+   * User flow is a visual representation of the product
+
+   * Types of user flow,
+      
+       1. Task flow
+
+       2. Wireflow
+
+       3. userflow
