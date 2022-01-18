@@ -59,4 +59,10 @@ TODO: I want to allocate time for coding everyday
    * **Utility navigation** : Consists of secondary actions and tools.
 
    * **Doormat navigation** : Navigation that is included both at the 
-      top and the bottom of the page
+      top and the bottom of the page.
+
+   * **Breadcrumb navigation** : Navigation that reflects the  
+       information hierarchy of your site.
+
+       example:
+             **--Canada > Products For Home > Laptops > Intel Core i9--**
