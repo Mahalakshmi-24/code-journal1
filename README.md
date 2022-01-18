@@ -20,4 +20,4 @@ TODO: I want to allocate time for coding everyday
 
   * Format
        
-       As a '[type of user]',i want '[an action]' so that '[a benefit/a value]'.
+       As a **[type of user]**,i want **[an action]** so that **[a benefit/a value]**.
