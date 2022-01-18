@@ -67,3 +67,9 @@ TODO: I want to allocate time for coding everyday
        example:
 
              Canada > Products For Home > Laptops > Intel Core i9
+
+    * **Hamburger navigation** : Also called hidden navigation is a menu 
+        that is hidden until a user action is made. 
+
+    * **Combo navigation** : Where some main navigation links are 
+        visible and some were hidden under a menu.
