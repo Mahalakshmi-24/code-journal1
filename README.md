@@ -50,12 +50,19 @@ TODO: I want to allocate time for coding everyday
   * Types of navigations,
 
       1.Horizontal Navigation
-         ![Horizontal Navigation](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/horizontal.png)
-         
+        ![Horizontal Navigation](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/horizontal.png)
+
       2.Vertical Navigation
-         ![Vertical Navigation](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/vertical.png)
+        ![Vertical Navigation](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/vertical.png)
 
+  * Search
+        ![search](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/search.png)
+  
+  * Header
+        ![Header](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/header.png)
 
+  * Body
+       ![Body](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/body.png)
 
 ### Navigations
    
