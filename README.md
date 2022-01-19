@@ -47,9 +47,11 @@ TODO: I want to allocate time for coding everyday
 
 ### How to draw a wireframe
 
-  *Types of navigations,
+  * Types of navigations,
+
       1.Horizontal Navigation
          ![Horizontal Navigation](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/horizontal.png)
+         
       2.Vertical Navigation
          ![Vertical Navigation](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/vertical.png)
 
