@@ -49,7 +49,7 @@ TODO: I want to allocate time for coding everyday
 
   * Two types of navigations,
          
-         ![Horizontal Navigation](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/horizontal.png)
+         ![Horizontal Navigation](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/navigation.png)
 
 
          ![Vertical Navigation](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/vertical.png)
