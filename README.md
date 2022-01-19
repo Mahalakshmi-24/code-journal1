@@ -38,7 +38,10 @@ TODO: I want to allocate time for coding everyday
 
   TODO: How to do a userflow and wireframe
 
-  Goal: Try to learn figma and navigation
+  Goal: Try to learn 
+         * figma, 
+         * how to draw a wireframe and 
+         * navigation
 
    * [Figma tutorial for beginners](https://www.youtube.com/watch?v=dXQ7IHkTiMM&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=2)
 
