@@ -39,6 +39,7 @@ TODO: I want to allocate time for coding everyday
   TODO: How to do a userflow and wireframe
 
   Goal: Try to learn 
+
          1. figma, 
          2. how to draw a wireframe and 
          3. navigation.
@@ -93,3 +94,14 @@ TODO: I want to allocate time for coding everyday
 
   * **Combo navigation** : Where some main navigation links are 
         visible and some were hidden under a menu.
+
+## Jan 19,2022
+ 
+  * Goal: I want to write user story and draw a wireframe for the user  
+          story
+
+  * I'm selecting the Dell website for to write userstory and draw a  
+    wireframe.
+
+  * I try to figure out how many user we can write.
+  
