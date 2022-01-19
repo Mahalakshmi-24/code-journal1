@@ -39,14 +39,22 @@ TODO: I want to allocate time for coding everyday
   TODO: How to do a userflow and wireframe
 
   Goal: Try to learn 
-  
          1. figma, 
          2. how to draw a wireframe and 
-         3. navigation
+         3. navigation.
 
    * [Figma tutorial for beginners](https://www.youtube.com/watch?v=dXQ7IHkTiMM&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=2)
 
-   * [Step by step sketching guide for wireframes](https://www.nngroup.com/articles/draw-wireframe-even-if-you-cant-draw/)
+### How to draw a wireframe
+
+  * Two types of navigations,
+         
+         ![Horizontal Navigation](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/horizontal.png)
+
+
+         ![Vertical Navigation](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/vertical.png)
+
+
 
 ### Navigations
    
