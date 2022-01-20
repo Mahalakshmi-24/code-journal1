@@ -103,5 +103,8 @@ TODO: I want to allocate time for coding everyday
   * I'm selecting the Dell website for to write userstory and draw a  
     wireframe.
 
-  * I try to figure out how many user we can write.
+  * I try to figure out how many user story we can write.
+
+  * I try to write three user otherwise it won't work for my assessment.
+
   
