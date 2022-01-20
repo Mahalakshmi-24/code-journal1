@@ -112,5 +112,5 @@ TODO: I want to allocate time for coding everyday
   * And i tried my first wireframe, i hope this is not that bad
     ![wireframe](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/1.jpg)
 
-
+  * I'm not going to submit this image, i palanned to redo this.
 
