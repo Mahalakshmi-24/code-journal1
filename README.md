@@ -1,38 +1,24 @@
 # Code Journal
 
-## Jan 17,2022
+## Jan 19,2022
+ 
+  * Goal: I want to write a user story and draw a wireframe for the user  
+          story
 
-Goal:I want to do preparation for the next day class.
+  * I'm selecting the Dell website for to write userstory and draw a  
+    wireframe.
 
-TODO: I want to allocate time for coding everyday
+  * I try to figure out how many user story we can write.
 
-  * I created the figma account using the link given by Tony.
+  * I try to write three user stories otherwise it won't work for my assessment.
   
-  * [Introduction of usablity](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
- 
-  * Scanning Patterns
+  * I successfully completed the user story.
 
-  * how to satisfy user needs?
+  * And i tried my first wireframe, i hope this is not that bad
+    ![wireframe](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/1.jpg)
 
-### User story
- 
-  * Great user stories always fit the INVEST set of criteria
+  * I'm not going to submit this image, i palanned to redo this.
 
-  * Format
-       
-       As a **[type of user]**,i want **[an action]** so that **[a benefit/a value]**.
-
-### [User Flows](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
-   
-   * User flow is a visual representation of the product
-
-   * Types of user flow,
-      
-       1. Task flow
-
-       2. Wireflow
-
-       3. userflow
 
 ## Jan 18,2022
 
@@ -95,22 +81,38 @@ TODO: I want to allocate time for coding everyday
   * **Combo navigation** : Where some main navigation links are 
         visible and some were hidden under a menu.
 
-## Jan 19,2022
- 
-  * Goal: I want to write a user story and draw a wireframe for the user  
-          story
+## Jan 17,2022
 
-  * I'm selecting the Dell website for to write userstory and draw a  
-    wireframe.
+Goal:I want to do preparation for the next day class.
 
-  * I try to figure out how many user story we can write.
+TODO: I want to allocate time for coding everyday
 
-  * I try to write three user stories otherwise it won't work for my assessment.
+  * I created the figma account using the link given by Tony.
   
-  * I successfully completed the user story.
+  * [Introduction of usablity](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
+ 
+  * Scanning Patterns
 
-  * And i tried my first wireframe, i hope this is not that bad
-    ![wireframe](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/1.jpg)
+  * how to satisfy user needs?
 
-  * I'm not going to submit this image, i palanned to redo this.
+### User story
+ 
+  * Great user stories always fit the INVEST set of criteria
+
+  * Format
+       
+       As a **[type of user]**,i want **[an action]** so that **[a benefit/a value]**.
+
+### [User Flows](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
+   
+   * User flow is a visual representation of the product
+
+   * Types of user flow,
+      
+       1. Task flow
+
+       2. Wireflow
+
+       3. userflow
+
 
