@@ -97,7 +97,7 @@ TODO: I want to allocate time for coding everyday
 
 ## Jan 19,2022
  
-  * Goal: I want to write user story and draw a wireframe for the user  
+  * Goal: I want to write a user story and draw a wireframe for the user  
           story
 
   * I'm selecting the Dell website for to write userstory and draw a  
@@ -105,6 +105,12 @@ TODO: I want to allocate time for coding everyday
 
   * I try to figure out how many user story we can write.
 
-  * I try to write three user otherwise it won't work for my assessment.
-
+  * I try to write three user stories otherwise it won't work for my assessment.
   
+  * I successfully completed the user story.
+
+  * And i tried my first wireframe, i hope this is not that bad
+    ![wireframe](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/1.jpg)
+
+
+
