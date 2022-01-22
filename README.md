@@ -9,7 +9,7 @@
 
   * i did some activites during our labtime.
     [Cofee](https://codepen.io/Maha-Seenivasan/pen/QWqXNBg)
-    
+
 ## Jan 19,2022
  
   * Goal: I want to write a user story and draw a wireframe for the user  
