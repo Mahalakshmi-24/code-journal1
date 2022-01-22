@@ -1,5 +1,15 @@
 # Code Journal
 
+## Jan 20,2022
+  
+  * Today i learned what is html and style html page using CSS.
+
+  * I don't know how to use Codepen,today i learned how to use codepen and how 
+    to embed the zip file.
+
+  * i did some activites during our labtime.
+    [Cofee](https://codepen.io/Maha-Seenivasan/pen/QWqXNBg)
+    
 ## Jan 19,2022
  
   * Goal: I want to write a user story and draw a wireframe for the user  
