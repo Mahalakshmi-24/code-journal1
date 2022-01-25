@@ -1,14 +1,21 @@
 # Code Journal
+## Jan24,2022
+
+  * Flex container is parent element,it's also a flex item.
+
+  * The properties of flex item 'flex-wrap'and 'flex-grow'.
+
 ## Jan 21,2022
+
   * Today, i learned how to setup an html progect using command line and  
     also gui method.
 
-  * clamp() - is used to set maximum and minimum font size
+  * clamp() - is used to set maximum and minimum font size.
 
-  * VW - Viewport width
+  * VW - Viewport width.
 
   * Learned how to load google fonts.
-  
+
 
 ## Jan 20,2022
   
