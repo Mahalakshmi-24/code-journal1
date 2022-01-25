@@ -5,6 +5,13 @@
 
   * The properties of flex item 'flex-wrap'and 'flex-grow'.
 
+  * we can use 'nav' tag for navigation.
+
+  * Inside the nav tag we can use <a href="#link-on-page">Link</a> tag to 
+    link the file.
+
+  * inside the link we can use <"#"> to link the same page 
+
 ## Jan 21,2022
 
   * Today, i learned how to setup an html progect using command line and  
