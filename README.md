@@ -1,4 +1,14 @@
 # Code Journal
+## Jan 21,2022
+  * Today, i learned how to setup an html progect using command line and  
+    also gui method.
+
+  * clamp() - is used to set maximum and minimum font size
+
+  * VW - Viewport width
+
+  * Learned how to load google fonts.
+  
 
 ## Jan 20,2022
   
