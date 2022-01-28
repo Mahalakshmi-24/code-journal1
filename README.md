@@ -47,7 +47,7 @@
      
      - we can add buttons in the form.
 
-     - icons are start with <i> tag.
+     - icons are start with i tag.
 
      - link for card layout
        [Cardlayout](https://codepen.io/Maha-Seenivasan/pen/gOXOzYM)
