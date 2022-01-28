@@ -18,7 +18,16 @@
 
     - i tried media query one of my previous coding
        [Cofee](https://codepen.io/Maha-Seenivasan/pen/QWqXNBg)
-  
+
+  * Image styling
+    
+    - to add image to foreground,we need to use "img src="""
+
+    - to add image to background, we need to use "background-image: url("")";
+
+    - i just use some css properties im imgae
+      [Image](https://codepen.io/Maha-Seenivasan/pen/PoOwjBo)
+      
 ## Jan25,2022
 
   * Actually we did some asset collection activity yesterday's class, i just 
