@@ -16,6 +16,9 @@
              }
         }
 
+    - i tried media query one of my previous coding
+       [Cofee](https://codepen.io/Maha-Seenivasan/pen/QWqXNBg)
+  
 ## Jan25,2022
 
   * Actually we did some asset collection activity yesterday's class, i just 
