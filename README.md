@@ -23,7 +23,28 @@
 
      - example for icon tag,
 
-           ''
+           '<i class="fas fa-align-justify"></i>'
+
+    * Media Queries
+
+      - Media queries are used to set major breakpoints.
+
+      - start of desktop styles
+
+         @media screen and (max-width: 991px) {
+             /* start of large tablet styles */
+
+          }
+
+         @media screen and (max-width: 767px) {
+             /* start of medium tablet styles */
+
+          }
+
+        @media screen and (max-width: 479px) {
+           /* start of phone styles */
+
+         }   
 
 ## Jan24,2022
 
