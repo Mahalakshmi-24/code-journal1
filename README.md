@@ -21,6 +21,9 @@
 
      - icons are start with <i> tag.
 
+     - link for card layout
+       [Cardlayout](https://codepen.io/Maha-Seenivasan/pen/gOXOzYM)
+
      - example for icon tag,
 
            '<i class="fas fa-align-justify"></i>'
@@ -28,6 +31,8 @@
     * Media Queries
 
       - Media queries are used to set major breakpoints.
+
+        '@media media-type and (media-feature-rule) { /* styles here */ }'
 
       - start of desktop styles
 
