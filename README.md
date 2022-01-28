@@ -1,4 +1,21 @@
 # Code Journal
+
+## Jan25,2022
+
+  * Actually we did some asset collection activity yesterday's class, i just 
+    colleted assets theme of kids favorites.
+
+  * Todo: card layout
+
+  * steps for card layout
+
+     - First write the contents that need for card
+
+     - we can add image/icon in card
+     
+     - set outer layer to 'Display: flex;'
+     
+
 ## Jan24,2022
 
   * Flex container is parent element,it's also a flex item.
