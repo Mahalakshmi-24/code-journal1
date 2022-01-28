@@ -1,5 +1,21 @@
 # Code Journal
 
+## Jan 26,2022
+ 
+  * Goal: Mobile first
+
+    -  set 'display: none;' in media query,if you set like this, you can't
+       see anything in mobile screen
+      
+    -  but it should visible on desktop.
+
+     eg:
+        @media screen and (min-width: 400px) {
+        .class-name {
+                display: block
+             }
+        }
+
 ## Jan25,2022
 
   * Actually we did some asset collection activity yesterday's class, i just 
