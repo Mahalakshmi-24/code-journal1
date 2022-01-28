@@ -9,12 +9,21 @@
 
   * steps for card layout
 
-     - First write the contents that need for card
+     - First write the contents that need for card.
 
-     - we can add image/icon in card
+     - we can add image/icon in card.
      
-     - set outer layer to 'Display: flex;'
+     - set outer layer to 'Display: flex;'.
+
+     - we can use 'article' or 'section' tag in content.
      
+     - we can add buttons in the form.
+
+     - icons are start with <i> tag.
+
+     - example for icon tag,
+
+           ''
 
 ## Jan24,2022
 
