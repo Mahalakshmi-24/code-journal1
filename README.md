@@ -1,5 +1,16 @@
 # Code Journal
 
+## jan 27,2022
+
+   * Goal: CSS Grid Basis
+
+     - I just understand it first after that i'm confused.
+
+     - i just try do grid after that i figured it out.
+    
+     - i just try to same like what ashlyn did in class successfully i finished it.
+          ![css-grid](./images/css-grid.png)     
+
 ## Jan 26,2022
  
   * Goal: Mobile first
