@@ -1,6 +1,44 @@
 # Code Journal
 
-## jan 27,2022
+## Jan31,2022
+  
+   * Goal : try to do Gallery.
+
+       - try to find some nice images
+
+       - i just planned how i'm going to fix the images.
+
+       - try to code but it's not come as i expected.
+
+       - need to figure out how to align the images
+          ![gallery](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/spa.png)
+
+## Jan 28,2022
+
+   * Goal : Try to finish the form activity within labtime.
+         
+      - Maryam is my partner for this activity
+
+      - we selected phtogrpahy page for form
+
+      - First we discuss and list what are the labels we are going add
+
+         - Firstname
+
+         - Lastname
+
+         - email
+
+         - phone no
+
+         - date
+
+         - feedback
+      
+      - finished form activity
+          [Form](https://codepen.io/Maha-Seenivasan/pen/RwjPORz)
+
+## Jan 27,2022
 
    * Goal: CSS Grid Basis
 
@@ -8,8 +46,21 @@
 
      - i just try do grid after that i figured it out.
     
-     - i just try to same like what ashlyn did in class successfully i finished it.
-          ![css-grid](./images/css-grid.png)     
+     - i try to do same like what ashlyn did in class successfully i finished it.
+          ![css-grid](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/css-grid.png)     
+  
+   * Goal : 404 error page
+
+     - Select the background color
+
+     - Add the text into that page
+
+     - try to find a image for that page
+
+     - i have sizing problem with that image
+
+     - i  figured it out after browsing google.
+
 
 ## Jan 26,2022
  
