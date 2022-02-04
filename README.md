@@ -12,12 +12,12 @@
    * and we did some syntax error fixing activity
     ![Syntax](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/syntaxerror1.png)
 
-    * Actually we solve them.
+   * Actually we solve them.
 
-    * it's very short day, the class overs at 11.30.
+   * it's very short day, the class overs at 11.30.
 
-    * i plan to rest today and plan to do my assignment stuff's tomorrow.
-    
+   * i plan to rest today and plan to do my assignment stuff's tomorrow.
+
 ## Feb 03,2022
 
    * Today is the firsday for javascript class.
@@ -73,7 +73,7 @@
        - Sony
 
    * In Banana republic websit has attractive hero section and the search bar is automatcally scrolling
-     ![Banana-Republic](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/banana1.png)
+     ![Banana-Republic](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/banana-republic1.png)
 
    * Goal : Try to fix the image galley layout within labtime.
 
@@ -108,7 +108,7 @@
        - try to code but it's not come as i expected.
 
        - need to figure out how to align the images
-          ![gallery](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/spa.png)
+          ![gallery](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/spa1.png)
 
 ## Jan 28,2022
 
