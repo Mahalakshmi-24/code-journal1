@@ -90,7 +90,7 @@
 
       - I aligned all the image as per my plan, after that i have problem, when i try to minimize the 
         screen size the right side aligned images are gone.
-        ![spa](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/spa.png)
+        ![spa](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/spa2.png)
 
       - i can't figure out, the labtime is over.
 
@@ -108,7 +108,7 @@
        - try to code but it's not come as i expected.
 
        - need to figure out how to align the images
-          ![gallery](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/spa1.png)
+          ![gallery](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/spa.png))
 
 ## Jan 28,2022
 
