@@ -1,6 +1,103 @@
 # Code Journal
 
-## Jan31,2022
+## Feb 04,2022
+
+   * Actually i did some freecodecamp activity.
+     ![code](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/js1.png)
+
+   * In future plan to do freecodacamp regularly.
+
+   * Today, we saw some errors and how to solve the syntax error.
+
+   * and we did some syntax error fixing activity
+    ![Syntax](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/syntaxerror1.png)
+
+    * Actually we solve them.
+
+    * it's very short day, the class overs at 11.30.
+
+    * i plan to rest today and plan to do my assignment stuff's tomorrow.
+    
+## Feb 03,2022
+
+   * Today is the firsday for javascript class.
+
+   * we did reveal.js
+
+   * after that we did some activities in reveal.js
+     ![code](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/code1.png)
+
+   * In lab time, we have some doubt in plugins
+
+   * We asked about that doubt to mike, he helped us.
+
+   * Goal : finish my assignment within today, bacuse today is the due.
+          
+           - Ashlyn helped me with that doubt.
+
+           - now i got it, i suffered lot last two days,
+           
+           - It takes some time for me.
+
+           - finally i finished my assignment and submitted.
+
+           - oh my god my headaches.
+
+
+## Feb 02,2022
+
+  *  Goal : Try to solve the problem in Image gallery.
+
+      - I'm blank, i watched lot youtube tutorials and other websites.
+
+      - and i asked help to fesal.
+
+      - he suggest me try to avoid poision and try to use flex like that.
+
+      - i don't have idea without 'grid column and grid-row' how to arrange tha image. 
+
+      - we tried several methods still i'm there.
+      
+      - after labtime i ask ashlyn about my image gallery
+
+## Feb 1, 2022
+
+   * Today we did Hero hunt activity in class.
+
+   * We did on group activity, members are me, Maryam and Hyeju .
+
+   * We select two websites
+       
+       - Banana Republic
+
+       - Sony
+
+   * In Banana republic websit has attractive hero section and the search bar is automatcally scrolling
+     ![Banana-Republic](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/banana1.png)
+
+   * Goal : Try to fix the image galley layout within labtime.
+
+     - first i pick 5 image only.
+
+     - i planned the layout.
+
+     - i try to align the image using  
+                
+               " grid-column-start: 
+                 grid-column-end:
+                 grid-row-start:
+                 grid-row-end: "
+
+      - I aligned all the image as per my plan, after that i have problem, when i try to minimize the 
+        screen size the right side aligned images are gone.
+        ![spa](https://github.com/Mahalakshmi-24/code-journal1/blob/main/image/spa.png)
+
+      - i can't figure out, the labtime is over.
+
+      - i asked help for our classmates they tried their best but the problem is not solved.
+
+                       
+## Jan 31,2022
   
    * Goal : try to do Gallery.
 
